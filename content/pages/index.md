@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/DSC09822-scaled-e1703680558777.jpg
-      altText: 'Lorena Fries '
+      altText: Lorena Fries Monleón
       elementId: ''
       type: ImageBlock
     badge:
