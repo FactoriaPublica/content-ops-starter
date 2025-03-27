@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/DSC09822-scaled-e1703680558777.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: 'Lorena Fries '
       elementId: ''
       type: ImageBlock
     badge:
